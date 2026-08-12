@@ -1,0 +1,6 @@
+{
+  "name": "سجل الطلبات - Order Tracker",
+  "description": "تطبيق حفظ وإدارة طلبات العملاء والمشتريات لشركات المتجر الأونلاين",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
